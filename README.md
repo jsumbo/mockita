@@ -1,6 +1,6 @@
 <a href="https://demo.useliftoff.com">
   <img alt="Liftoff – AI-Powered Mock Interviews" src="https://demo.useliftoff.com/opengraph-image">
-  <h1 align="center">Liftoff Interviews</h1>
+  <h1 align="center">Mockita</h1>
 </a>
 
 <p align="center">
@@ -8,11 +8,11 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/tmeyer_me">
+  <a href="https://twitter.com/@iamjallah">
     <img src="https://img.shields.io/twitter/follow/tmeyer_me?style=flat&label=Follow&logo=twitter&color=0bf&logoColor=fff" alt="Tyler Meyer's follower count" />
   </a>
-  <a href="https://github.com/Tameyer41/liftoff">
-    <img src="https://img.shields.io/github/stars/Tameyer41/liftoff?label=Tameyer41%2Fliftoff" alt="Liftoff repo star count" />
+  <a href="[https://github.com/Tameyer41/liftoff](https://github.com/jsumbo/mockita)">
+    <img src="https://img.shields.io/github/stars/jsumbo/mockita?label=Tameyer41%2Fliftoff" alt="mockita repo star count" />
   </a>
 </p>
 
